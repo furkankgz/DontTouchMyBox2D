@@ -9,5 +9,5 @@ Udemy 2D game project with Unity.
 > Tile palette ile mekan oluşturuldu.
 <br>
 
-https://user-images.githubusercontent.com/65050348/187322157-fb7ad714-7eca-44c9-9c81-541215b39a0a.mp4
+https://user-images.githubusercontent.com/65050348/187322305-66d5e41e-3b20-48fb-a878-3c7329cefebe.mp4
 
