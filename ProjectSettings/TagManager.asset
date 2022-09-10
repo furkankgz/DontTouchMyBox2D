@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Player1_Tower
   - Player2_Tower
+  - InteractiveBoxes
   layers:
   - Default
   - TransparentFX
